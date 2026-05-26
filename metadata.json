@@ -1,0 +1,8 @@
+{
+  "name": "SkillSwap QIU",
+  "description": "Student Skill Exchange Platform designed for university students to learn and share skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
