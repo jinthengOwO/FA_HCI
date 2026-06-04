@@ -51,7 +51,7 @@ export default function LandingView({
 
   const testimonials = [
     {
-      quote: "SkillSwap completely solved my exam panic. Hooi Jin Theng spent an hour drawing out database index hierarchies, and I secured an A on my DBA finals! Best platform ever.",
+      quote: "UniShare completely solved my exam panic. Hooi Jin Theng spent an hour drawing out database index hierarchies, and I secured an A on my DBA finals! Best platform ever.",
       author: "Mia Alvarez",
       year: "Year 2 Psychology Student",
       avatar: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=100&h=100",
@@ -446,7 +446,7 @@ export default function LandingView({
                 <BookOpen className="w-4 h-4" />
               </div>
               <span className="font-extrabold text-lg text-gray-900 dark:text-white">
-                SkillSwap QIU
+                UniShare QIU
               </span>
             </div>
             <p className="text-xs text-gray-400 leading-relaxed">
@@ -488,7 +488,7 @@ export default function LandingView({
           </div>
         </div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 pt-8 border-t border-gray-100 dark:border-gray-800 text-center text-xs text-gray-400">
-          © 2026 SkillSwap QIU Peer Network. Built in accordance with Student Union HCI heuristics. All Rights Reserved.
+          © 2026 UniShare QIU Peer Network. Built in accordance with Student Union HCI heuristics. All Rights Reserved.
         </div>
       </footer>
 
