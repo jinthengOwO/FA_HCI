@@ -508,8 +508,8 @@ export default function App() {
   // Tour Steps content
   const tourGuideSteps = [
     {
-      title: "Welcome to SkillSwap QIU!",
-      desc: "SkillSwap QIU is a peer huddle system for students. Swap skills, teach topics, schedule meetings, and earn achievements.",
+      title: "Welcome to UniShare QIU!",
+      desc: "UniShare QIU is a peer huddle system for students. Swap skills, teach topics, schedule meetings, and earn achievements.",
       icon: <Award className="w-8 h-8 text-indigo-500" />
     },
     {
