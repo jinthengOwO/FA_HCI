@@ -61,7 +61,7 @@ export default function Navbar({
             </div>
             <div>
               <span className="font-extrabold text-xl bg-gradient-to-r from-blue-600 to-indigo-600 dark:from-blue-400 dark:to-indigo-400 bg-clip-text text-transparent">
-                SkillSwap
+                UniShare
               </span>
               <span className="ml-1 text-xs font-semibold px-1.5 py-0.5 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900/30 dark:text-blue-300">
                 QIU
